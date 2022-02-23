@@ -1,0 +1,78 @@
+body {
+  background-color: #C8F2EF;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 6px;
+  border-color: #21325E;
+  width: 8%;
+}
+img {
+  height: 225px;
+  border-radius: 100px;
+}
+h1 {
+  color: #BB6464;
+  text-align: center;
+  font-family: Copperplate, Papyrus, fantasy;
+  font-weight: bolder;
+  text-transform: uppercase;
+
+}
+h3 {
+  color: #BB6464;
+  text-align: center;
+  text-shadow: 1px 1px;
+  text-transform: uppercase;
+  font-family: Copperplate, Papyrus, fantasy;
+
+}
+
+h4 {
+  text-align: center;
+  font-weight: bold;
+  font-family: Copperplate, Papyrus, fantasy;
+}
+
+h5 {
+  font-family: Copperplate, Papyrus, fantasy;
+  text-align: center;
+  font-size: 16px;
+}
+ul {
+  font-family: Copperplate, Papyrus, fantasy;
+  font-weight: bolder;
+  font-size: 13px;
+}
+
+table {
+  font-family: Copperplate, Papyrus, fantasy;
+  text-align: center;
+}
+
+
+.beta th {
+  font-size: 18px;
+  border-bottom: ridge;
+  border-width: 6px;
+  border-color: #21325E;
+  color: #21325E;
+}
+
+.alpha table {
+  border-right: dotted;
+}
+
+td {
+  font-size: 13px;
+}
+
+form {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-family: Copperplate, Papyrus, fantasy;
+}
