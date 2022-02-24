@@ -1,0 +1,94 @@
+/**************Tag Selectors**************/
+
+body {
+  background-color: #C8F2EF;
+  background-position: top 100px bottom 50px;
+}
+
+form {
+  text-align: center;
+}
+
+hr {
+  border-color: #21325E;
+  border-style: dotted none none none;
+  border-width: 6px;
+  width: 8%;
+}
+
+h1 {
+  color: #03045E;
+  font-family: Copperplate, Papyrus, fantasy;
+  font-weight: bolder;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h3 {
+  color: #BB6464;
+  font-family: Copperplate, Papyrus, fantasy;
+  text-align: center;
+  text-shadow: 1px 1px;
+  text-transform: uppercase;
+}
+
+h4 {
+  text-align: center;
+  font-weight: bold;
+  font-family: Copperplate, Papyrus, fantasy;
+}
+
+h5 {
+  font-family: Copperplate, Papyrus, fantasy;
+  font-size: 16px;
+  text-align: center;
+}
+
+img {
+  height: 225px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  font-family: Copperplate, Papyrus, fantasy;
+  text-align: center;
+}
+
+table {
+  font-family: Copperplate, Papyrus, fantasy;
+  text-align: center;
+}
+
+td {
+  font-size: 13px;
+}
+
+ul {
+  font-family: Copperplate, Papyrus, fantasy;
+  font-weight: bolder;
+  font-size: 13px;
+}
+/************Class Selectors*************/
+
+.beta {
+    border-bottom: ridge;
+    border-width: 6px;
+    border-color: #21325E;
+    color: #21325E;
+    font-size: 18px;
+}
+
+.meeting {
+  border-radius: 50%;
+  height: 225px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/***************ID Selectors*************/
+
+#heading {
+  color: #03045E;
+  font-size: 40px;
+}
